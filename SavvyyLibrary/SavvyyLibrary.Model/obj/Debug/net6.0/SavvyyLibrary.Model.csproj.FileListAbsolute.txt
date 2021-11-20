@@ -1,0 +1,12 @@
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\bin\Debug\net6.0\SavvyyLibrary.Model.deps.json
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\bin\Debug\net6.0\SavvyyLibrary.Model.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\bin\Debug\net6.0\ref\SavvyyLibrary.Model.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\bin\Debug\net6.0\SavvyyLibrary.Model.pdb
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\obj\Debug\net6.0\SavvyyLibrary.Model.csproj.AssemblyReference.cache
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\obj\Debug\net6.0\SavvyyLibrary.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\obj\Debug\net6.0\SavvyyLibrary.Model.AssemblyInfoInputs.cache
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\obj\Debug\net6.0\SavvyyLibrary.Model.AssemblyInfo.cs
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\obj\Debug\net6.0\SavvyyLibrary.Model.csproj.CoreCompileInputs.cache
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\obj\Debug\net6.0\SavvyyLibrary.Model.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\obj\Debug\net6.0\ref\SavvyyLibrary.Model.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Model\obj\Debug\net6.0\SavvyyLibrary.Model.pdb

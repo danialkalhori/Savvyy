@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SavvyyLibrary.Repository/1.0.0": {
+        "dependencies": {
+          "SavvyyLibrary.Model": "1.0.0"
+        },
+        "runtime": {
+          "SavvyyLibrary.Repository.dll": {}
+        }
+      },
+      "SavvyyLibrary.Model/1.0.0": {
+        "runtime": {
+          "SavvyyLibrary.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SavvyyLibrary.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SavvyyLibrary.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

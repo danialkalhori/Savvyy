@@ -1,0 +1,17 @@
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\SavvyyLibrary.Repository.EF.csproj.AssemblyReference.cache
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\SavvyyLibrary.Repository.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\SavvyyLibrary.Repository.EF.AssemblyInfoInputs.cache
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\SavvyyLibrary.Repository.EF.AssemblyInfo.cs
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\SavvyyLibrary.Repository.EF.csproj.CoreCompileInputs.cache
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\bin\Debug\net6.0\SavvyyLibrary.Repository.EF.deps.json
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\bin\Debug\net6.0\SavvyyLibrary.Repository.EF.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\bin\Debug\net6.0\ref\SavvyyLibrary.Repository.EF.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\bin\Debug\net6.0\SavvyyLibrary.Repository.EF.pdb
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\bin\Debug\net6.0\SavvyyLibrary.Model.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\bin\Debug\net6.0\SavvyyLibrary.Repository.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\bin\Debug\net6.0\SavvyyLibrary.Model.pdb
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\bin\Debug\net6.0\SavvyyLibrary.Repository.pdb
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\SavvyyLibrary.Repository.EF.csproj.CopyComplete
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\SavvyyLibrary.Repository.EF.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\ref\SavvyyLibrary.Repository.EF.dll
+D:\Development\SavvyyLibrary\SavvyyLibrary\SavvyyLibrary.Repository.EF\obj\Debug\net6.0\SavvyyLibrary.Repository.EF.pdb

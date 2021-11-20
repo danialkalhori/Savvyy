@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cbc23a8-a8dc-421a-a8d1-0de2df97d381": {
+      "ProjectGuid": "7cbc23a8-a8dc-421a-a8d1-0de2df97d381",
+      "DisplayName": "SavvyyLibrary.Api",
+      "ColorIndex": 0
+    },
+    "a51bc3d6-dece-486c-8233-5c049f78dd41": {
+      "ProjectGuid": "a51bc3d6-dece-486c-8233-5c049f78dd41",
+      "DisplayName": "SavvyyLibrary.Model",
+      "ColorIndex": 1
+    },
+    "1263592d-32bd-4da0-ac77-9e4b7ffdd36a": {
+      "ProjectGuid": "1263592d-32bd-4da0-ac77-9e4b7ffdd36a",
+      "DisplayName": "SavvyyLibrary.Service",
+      "ColorIndex": 2
+    },
+    "f329b34b-d7a4-4b8f-a26c-e760e432b11e": {
+      "ProjectGuid": "f329b34b-d7a4-4b8f-a26c-e760e432b11e",
+      "DisplayName": "SavvyyLibrary.ServiceHandler",
+      "ColorIndex": 3
+    },
+    "e3f9a90c-e3f9-490b-8547-b355ac3e9ce8": {
+      "ProjectGuid": "e3f9a90c-e3f9-490b-8547-b355ac3e9ce8",
+      "DisplayName": "SavvyyLibrary.Repository",
+      "ColorIndex": 4
+    },
+    "f1848760-dda2-4b03-b6af-2adc83bf88a9": {
+      "ProjectGuid": "f1848760-dda2-4b03-b6af-2adc83bf88a9",
+      "DisplayName": "SavvyyLibrary.Repository.EF",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

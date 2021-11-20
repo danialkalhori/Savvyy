@@ -1,0 +1,121 @@
+{
+	"info": {
+		"_postman_id": "dbfc7968-4f4f-40d6-b416-47bb46863f0f",
+		"name": "Library",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7095/Library?id=1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7095",
+					"path": [
+						"Library"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Request",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Test Book\",\r\n  \"description\": \"Test book description\",\r\n  \"author\": \"Writer\",\r\n  \"price\": 99,\r\n  \"coverImage\": \"\"\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7095/Library",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7095",
+					"path": [
+						"Library"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Edit Request",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 1,\r\n  \"title\": \"Test Book\",\r\n  \"description\": \"Test book description\",\r\n  \"author\": \"Writer\",\r\n  \"price\": 99,\r\n  \"coverImage\": \"\"\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7095/Library",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7095",
+					"path": [
+						"Library"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Request",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 2\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7095/Library",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7095",
+					"path": [
+						"Library"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

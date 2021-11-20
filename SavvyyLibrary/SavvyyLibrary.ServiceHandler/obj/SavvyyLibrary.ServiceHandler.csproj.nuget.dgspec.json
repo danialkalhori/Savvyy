@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.ServiceHandler\\SavvyyLibrary.ServiceHandler.csproj": {}
+  },
+  "projects": {
+    "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Model\\SavvyyLibrary.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Model\\SavvyyLibrary.Model.csproj",
+        "projectName": "SavvyyLibrary.Model",
+        "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Model\\SavvyyLibrary.Model.csproj",
+        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository.EF\\SavvyyLibrary.Repository.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository.EF\\SavvyyLibrary.Repository.EF.csproj",
+        "projectName": "SavvyyLibrary.Repository.EF",
+        "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository.EF\\SavvyyLibrary.Repository.EF.csproj",
+        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Model\\SavvyyLibrary.Model.csproj": {
+                "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Model\\SavvyyLibrary.Model.csproj"
+              },
+              "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository\\SavvyyLibrary.Repository.csproj": {
+                "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository\\SavvyyLibrary.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository\\SavvyyLibrary.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository\\SavvyyLibrary.Repository.csproj",
+        "projectName": "SavvyyLibrary.Repository",
+        "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository\\SavvyyLibrary.Repository.csproj",
+        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Model\\SavvyyLibrary.Model.csproj": {
+                "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Model\\SavvyyLibrary.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.ServiceHandler\\SavvyyLibrary.ServiceHandler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.ServiceHandler\\SavvyyLibrary.ServiceHandler.csproj",
+        "projectName": "SavvyyLibrary.ServiceHandler",
+        "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.ServiceHandler\\SavvyyLibrary.ServiceHandler.csproj",
+        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.ServiceHandler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository.EF\\SavvyyLibrary.Repository.EF.csproj": {
+                "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository.EF\\SavvyyLibrary.Repository.EF.csproj"
+              },
+              "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository\\SavvyyLibrary.Repository.csproj": {
+                "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Repository\\SavvyyLibrary.Repository.csproj"
+              },
+              "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Service\\SavvyyLibrary.Service.csproj": {
+                "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Service\\SavvyyLibrary.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Service\\SavvyyLibrary.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Service\\SavvyyLibrary.Service.csproj",
+        "projectName": "SavvyyLibrary.Service",
+        "projectPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Service\\SavvyyLibrary.Service.csproj",
+        "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\SavvyyLibrary\\SavvyyLibrary\\SavvyyLibrary.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
